@@ -1,3 +1,11 @@
+#####
+# Spider for download file from a define url
+# this is looking for .csv and .pdf files
+#
+# Nelson Monnerat
+# 13/12/2022
+#####
+
 import scrapy
 from anpscraper.items import AnpscraperItem
 

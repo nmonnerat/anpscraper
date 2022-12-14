@@ -2,7 +2,12 @@
 #
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-
+#####
+# Get the file name and pass it through the pipeline
+#
+# Nelson Monnerat
+# 13/12/2022
+#####
 
 # useful for handling different item types with a single interface
 #from itemadapter import ItemAdapter
@@ -12,5 +17,6 @@ class AnpscraperPipeline(FilesPipeline):
     #def process_item(self, item, spider):
     #    return item
     def file_path(self, request, response=None, info=None):
+        # save the file name to be used by items.py
         file_name: str = request.url.split("/")[-1]
         return file_name

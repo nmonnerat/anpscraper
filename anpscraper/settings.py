@@ -6,6 +6,16 @@
 #     https://docs.scrapy.org/en/latest/topics/settings.html
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
+#####
+# Change to make it possible to use the original file name
+#   ITEM_PIPELINES = {
+#      'anpscraper.pipelines.AnpscraperPipeline': 1,
+#   }
+#   FILES_STORE = r"/home/monnerat/scrapy-example/anpscraper/downloads"
+#
+# Nelson Monnerat
+# 13/12/2022
+#####
 
 BOT_NAME = 'anpscraper'
 
@@ -68,6 +78,7 @@ ROBOTSTXT_OBEY = True
 #ITEM_PIPELINES = {
 #  'scrapy.pipelines.files.FilesPipeline': 1,
 #}
+# Change to make it possible to use the original file name
 ITEM_PIPELINES = {
   'anpscraper.pipelines.AnpscraperPipeline': 1,
 }
