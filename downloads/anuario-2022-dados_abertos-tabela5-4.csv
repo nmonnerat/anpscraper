@@ -1,0 +1,209 @@
+﻿TIPO DE DADO;ANO;RODADA DE LICITAÇÃO;VALOR DA VARIÁVEL
+Bacias sedimentares;2013;Partilha 1;1
+Blocos ofertados;2013;Partilha 1;1
+Bacias sedimentares;2017;Partilha 2;2
+Bacias sedimentares;2017;Partilha 3;2
+Bacias sedimentares;2018;Partilha 4;2
+Bacias sedimentares;2018;Partilha 5;2
+Bacias sedimentares;2019;Partilha 6;2
+Bacias sedimentares;2019;Excedente da Cessão Onerosa;1
+Bacias sedimentares;2021;Segunda Rodada do Excedente da Cessão Onerosa;1
+Blocos ofertados;2017;Partilha 2;4
+Blocos ofertados;2017;Partilha 3;4
+Blocos ofertados;2018;Partilha 4;4
+Blocos ofertados;2018;Partilha 5;4
+Blocos ofertados;2019;Partilha 6;5
+Blocos ofertados;2019;Excedente da Cessão Onerosa;4
+Blocos ofertados;2021;Segunda Rodada do Excedente da Cessão Onerosa;2
+Blocos arrematados;2013;Partilha 1;1
+Blocos arrematados;2017;Partilha 2;3
+Blocos arrematados;2017;Partilha 3;3
+Blocos arrematados;2018;Partilha 4;3
+Blocos arrematados;2018;Partilha 5;4
+Blocos arrematados;2019;Partilha 6;1
+Blocos arrematados;2019;Excedente da Cessão Onerosa;2
+Blocos arrematados;2021;Segunda Rodada do Excedente da Cessão Onerosa;2
+Blocos concedidos;2013;Partilha 1;1
+Blocos concedidos;2017;Partilha 2;3
+Blocos concedidos;2017;Partilha 3;3
+Blocos concedidos;2018;Partilha 4;3
+Blocos concedidos;2018;Partilha 5;4
+Blocos concedidos;2019;Partilha 6;1
+Blocos concedidos;2019;Excedente da Cessão Onerosa;2
+Blocos concedidos;2021;Segunda Rodada do Excedente da Cessão Onerosa;2
+Blocos arrematados/blocos ofertados (%);2013;Partilha 1;100%
+Blocos arrematados/blocos ofertados (%);2017;Partilha 2;75%
+Blocos arrematados/blocos ofertados (%);2017;Partilha 3;75%
+Blocos arrematados/blocos ofertados (%);2018;Partilha 4;75%
+Blocos arrematados/blocos ofertados (%);2018;Partilha 5;100%
+Blocos arrematados/blocos ofertados (%);2019;Partilha 6;20%
+Blocos arrematados/blocos ofertados (%);2019;Excedente da Cessão Onerosa;50%
+Blocos arrematados/blocos ofertados (%);2021;Segunda Rodada do Excedente da Cessão Onerosa;100%
+Blocos concedidos/blocos ofertados (%);2013;Partilha 1;100%
+Blocos concedidos/blocos ofertados (%);2017;Partilha 2;75%
+Blocos concedidos/blocos ofertados (%);2017;Partilha 3;75%
+Blocos concedidos/blocos ofertados (%);2018;Partilha 4;75%
+Blocos concedidos/blocos ofertados (%);2018;Partilha 5;100%
+Blocos concedidos/blocos ofertados (%);2019;Partilha 6;20%
+Blocos concedidos/blocos ofertados (%);2019;Excedente da Cessão Onerosa;50%
+Blocos concedidos/blocos ofertados (%);2021;Segunda Rodada do Excedente da Cessão Onerosa;100%
+Área ofertada (km²);2013;Partilha 1;1.548
+Área ofertada (km²);2017;Partilha 2;663
+Área ofertada (km²);2017;Partilha 3;7.314
+Área ofertada (km²);2018;Partilha 4;4.232
+Área ofertada (km²);2018;Partilha 5;2.865
+Área ofertada (km²);2019;Partilha 6;8.638
+Área ofertada (km²);2019;Excedente da Cessão Onerosa;1.385
+Área ofertada (km²);2021;Segunda Rodada do Excedente da Cessão Onerosa;386
+Área arrematada (km²);2013;Partilha 1;1.548
+Área arrematada (km²);2017;Partilha 2;656
+Área arrematada (km²);2017;Partilha 3;6.131
+Área arrematada (km²);2018;Partilha 4;3.521
+Área arrematada (km²);2018;Partilha 5;2.865
+Área arrematada (km²);2019;Partilha 6;4.476
+Área arrematada (km²);2019;Excedente da Cessão Onerosa;999
+Área arrematada (km²);2021;Segunda Rodada do Excedente da Cessão Onerosa;386
+Área concedida (km2);2013;Partilha 1;1.548
+Área concedida (km2);2017;Partilha 2;656
+Área concedida (km2);2017;Partilha 3;6.131
+Área concedida (km2);2018;Partilha 4;3.521
+Área concedida (km2);2018;Partilha 5;2.865
+Área concedida (km2);2019;Partilha 6;4.476
+Área concedida (km2);2019;Excedente da Cessão Onerosa;999
+Área concedida (km2);2021;Segunda Rodada do Excedente da Cessão Onerosa;386
+Área arrematada/área ofertada (%);2013;Partilha 1;100%
+Área arrematada/área ofertada (%);2017;Partilha 2;99%
+Área arrematada/área ofertada (%);2017;Partilha 3;84%
+Área arrematada/área ofertada (%);2018;Partilha 4;83%
+Área arrematada/área ofertada (%);2018;Partilha 5;100%
+Área arrematada/área ofertada (%);2019;Partilha 6;52%
+Área arrematada/área ofertada (%);2019;Excedente da Cessão Onerosa;72%
+Área arrematada/área ofertada (%);2021;Segunda Rodada do Excedente da Cessão Onerosa;100%
+Área concedida/área ofertada (%);2013;Partilha 1;100%
+Área concedida/área ofertada (%);2017;Partilha 2;99%
+Área concedida/área ofertada (%);2017;Partilha 3;84%
+Área concedida/área ofertada (%);2018;Partilha 4;83%
+Área concedida/área ofertada (%);2018;Partilha 5;100%
+Área concedida/área ofertada (%);2019;Partilha 6;52%
+Área concedida/área ofertada (%);2019;Excedente da Cessão Onerosa;72%
+Área concedida/área ofertada (%);2021;Segunda Rodada do Excedente da Cessão Onerosa;100%
+Empresas que manifestaram interesse;2013;Partilha 1;11
+Empresas que manifestaram interesse;2017;Partilha 2;11
+Empresas que manifestaram interesse;2017;Partilha 3;15
+Empresas que manifestaram interesse;2018;Partilha 4;16
+Empresas que manifestaram interesse;2018;Partilha 5;12
+Empresas que manifestaram interesse;2019;Partilha 6;17
+Empresas que manifestaram interesse;2019;Excedente da Cessão Onerosa;14
+Empresas que manifestaram interesse;2021;Segunda Rodada do Excedente da Cessão Onerosa;11
+Empresas que pagaram a taxa de participação;2013;Partilha 1;11
+Empresas que pagaram a taxa de participação;2017;Partilha 2;10
+Empresas que pagaram a taxa de participação;2017;Partilha 3;15
+Empresas que pagaram a taxa de participação;2018;Partilha 4;16
+Empresas que pagaram a taxa de participação;2018;Partilha 5;12
+Empresas que pagaram a taxa de participação;2019;Partilha 6;17
+Empresas que pagaram a taxa de participação;2019;Excedente da Cessão Onerosa;14
+Empresas que pagaram a taxa de participação;2021;Segunda Rodada do Excedente da Cessão Onerosa;11
+Empresas habilitadas1;2013;Partilha 1;11
+Empresas habilitadas1;2017;Partilha 2;10
+Empresas habilitadas1;2017;Partilha 3;14
+Empresas habilitadas1;2018;Partilha 4;16
+Empresas habilitadas1;2018;Partilha 5;12
+Empresas habilitadas1;2019;Partilha 6;17
+Empresas habilitadas1;2019;Excedente da Cessão Onerosa;14
+Empresas habilitadas1;2021;Segunda Rodada do Excedente da Cessão Onerosa;10
+Empresas habilitadas nacionais;2013;Partilha 1;1
+Empresas habilitadas nacionais;2017;Partilha 2;2
+Empresas habilitadas nacionais;2017;Partilha 3;1
+Empresas habilitadas nacionais;2018;Partilha 4;2
+Empresas habilitadas nacionais;2018;Partilha 5;1
+Empresas habilitadas nacionais;2019;Partilha 6;2
+Empresas habilitadas nacionais;2019;Excedente da Cessão Onerosa;1
+Empresas habilitadas nacionais;2021;Segunda Rodada do Excedente da Cessão Onerosa;2
+Empresas habilitadas estrangeiras;2013;Partilha 1;10
+Empresas habilitadas estrangeiras;2017;Partilha 2;8
+Empresas habilitadas estrangeiras;2017;Partilha 3;13
+Empresas habilitadas estrangeiras;2018;Partilha 4;14
+Empresas habilitadas estrangeiras;2018;Partilha 5;11
+Empresas habilitadas estrangeiras;2019;Partilha 6;15
+Empresas habilitadas estrangeiras;2019;Excedente da Cessão Onerosa;13
+Empresas habilitadas estrangeiras;2021;Segunda Rodada do Excedente da Cessão Onerosa;8
+Empresas ofertantes;2013;Partilha 1;5
+Empresas ofertantes;2017;Partilha 2;8
+Empresas ofertantes;2017;Partilha 3;8
+Empresas ofertantes;2018;Partilha 4;11
+Empresas ofertantes;2018;Partilha 5;10
+Empresas ofertantes;2019;Partilha 6;2
+Empresas ofertantes;2019;Excedente da Cessão Onerosa;3
+Empresas ofertantes;2021;Segunda Rodada do Excedente da Cessão Onerosa;5
+Empresas ofertantes nacionais;2013;Partilha 1;1
+Empresas ofertantes nacionais;2017;Partilha 2;2
+Empresas ofertantes nacionais;2017;Partilha 3;1
+Empresas ofertantes nacionais;2018;Partilha 4;1
+Empresas ofertantes nacionais;2018;Partilha 5;1
+Empresas ofertantes nacionais;2019;Partilha 6;1
+Empresas ofertantes nacionais;2019;Excedente da Cessão Onerosa;1
+Empresas ofertantes nacionais;2021;Segunda Rodada do Excedente da Cessão Onerosa;1
+Empresas ofertantes estrangeiras;2013;Partilha 1;4
+Empresas ofertantes estrangeiras;2017;Partilha 2;6
+Empresas ofertantes estrangeiras;2017;Partilha 3;7
+Empresas ofertantes estrangeiras;2018;Partilha 4;10
+Empresas ofertantes estrangeiras;2018;Partilha 5;9
+Empresas ofertantes estrangeiras;2019;Partilha 6;1
+Empresas ofertantes estrangeiras;2019;Excedente da Cessão Onerosa;2
+Empresas ofertantes estrangeiras;2021;Segunda Rodada do Excedente da Cessão Onerosa;4
+Empresas vencedoras;2013;Partilha 1;5
+Empresas vencedoras;2017;Partilha 2;7
+Empresas vencedoras;2017;Partilha 3;6
+Empresas vencedoras;2018;Partilha 4;7
+Empresas vencedoras;2018;Partilha 5;8
+Empresas vencedoras;2019;Partilha 6;2
+Empresas vencedoras;2019;Excedente da Cessão Onerosa;3
+Empresas vencedoras;2021;Segunda Rodada do Excedente da Cessão Onerosa;5
+Empresas vencedoras nacionais;2013;Partilha 1;1
+Empresas vencedoras nacionais;2017;Partilha 2;1
+Empresas vencedoras nacionais;2017;Partilha 3;1
+Empresas vencedoras nacionais;2018;Partilha 4;1
+Empresas vencedoras nacionais;2018;Partilha 5;1
+Empresas vencedoras nacionais;2019;Partilha 6;1
+Empresas vencedoras nacionais;2019;Excedente da Cessão Onerosa;1
+Empresas vencedoras nacionais;2021;Segunda Rodada do Excedente da Cessão Onerosa;1
+Empresas vencedoras estrangeiras;2013;Partilha 1;4
+Empresas vencedoras estrangeiras;2017;Partilha 2;6
+Empresas vencedoras estrangeiras;2017;Partilha 3;5
+Empresas vencedoras estrangeiras;2018;Partilha 4;6
+Empresas vencedoras estrangeiras;2018;Partilha 5;7
+Empresas vencedoras estrangeiras;2019;Partilha 6;1
+Empresas vencedoras estrangeiras;2019;Excedente da Cessão Onerosa;2
+Empresas vencedoras estrangeiras;2021;Segunda Rodada do Excedente da Cessão Onerosa;4
+Conteúdo local médio – fase de exploração (%);2013;Partilha 1;37%
+Conteúdo local médio – fase de exploração (%);2017;Partilha 2;41%
+Conteúdo local médio – fase de exploração (%);2017;Partilha 3;18%
+Conteúdo local médio – fase de exploração (%);2018;Partilha 4;18%
+Conteúdo local médio – fase de exploração (%);2018;Partilha 5;18%
+Conteúdo local médio – fase de exploração (%);2019;Partilha 6;18%
+Conteúdo local médio – fase de exploração (%);2019;Excedente da Cessão Onerosa;-
+Conteúdo local médio – fase de exploração (%);2021;Segunda Rodada do Excedente da Cessão Onerosa;-
+Conteúdo local médio – etapa de desenvolvimento da produção (%);2013;Partilha 1;57%
+Conteúdo local médio – etapa de desenvolvimento da produção (%);2017;Partilha 2;46%
+Conteúdo local médio – etapa de desenvolvimento da produção (%);2017;Partilha 3;30%
+Conteúdo local médio – etapa de desenvolvimento da produção (%);2018;Partilha 4;30%
+Conteúdo local médio – etapa de desenvolvimento da produção (%);2018;Partilha 5;30%
+Conteúdo local médio – etapa de desenvolvimento da produção (%);2019;Partilha 6;30%
+Conteúdo local médio – etapa de desenvolvimento da produção (%);2019;Excedente da Cessão Onerosa;30%
+Conteúdo local médio – etapa de desenvolvimento da produção (%);2021;Segunda Rodada do Excedente da Cessão Onerosa;30%
+Bônus de assinatura (milhões de R$);2013;Partilha 1;15.000
+Bônus de assinatura (milhões de R$);2017;Partilha 2;3.300
+Bônus de assinatura (milhões de R$);2017;Partilha 3;2.850
+Bônus de assinatura (milhões de R$);2018;Partilha 4;3.150
+Bônus de assinatura (milhões de R$);2018;Partilha 5;6.820
+Bônus de assinatura (milhões de R$);2019;Partilha 6;5.050
+Bônus de assinatura (milhões de R$);2019;Excedente da Cessão Onerosa;69.960
+Bônus de assinatura (milhões de R$);2021;Segunda Rodada do Excedente da Cessão Onerosa;11.140
+PEM (milhões de R$);2013;Partilha 1;611
+PEM (milhões de R$);2017;Partilha 2;304
+PEM (milhões de R$);2017;Partilha 3;456
+PEM (milhões de R$);2018;Partilha 4;738
+PEM (milhões de R$);2018;Partilha 5;1.000
+PEM (milhões de R$);2019;Partilha 6;278
+PEM (milhões de R$);2019;Excedente da Cessão Onerosa; -
+PEM (milhões de R$);2021;Segunda Rodada do Excedente da Cessão Onerosa;-
