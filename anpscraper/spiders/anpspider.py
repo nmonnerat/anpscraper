@@ -31,8 +31,3 @@ class AnpspiderSpider(scrapy.Spider):
                 item['original_file_name'] = link.split('/')[-1]
                 #yield {'links': link }
                 yield item
-        '''
-        file_url = response.css('.interna-link::attr(href)').get()
-        file_url = response.urljoin(file_url)
-        yield {'file_url': file_url}
-#       '''
