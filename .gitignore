@@ -2,3 +2,4 @@ downloads/
 myscraoeddata.json
 anpscraper/__pycache__/
 anpscraper/spiders/__pycache__/
+token
